@@ -1,0 +1,5 @@
+author: OldVnco
+name: Captcha
+main: dev.vnco.captcha.CaptchaPlugin
+version: ${project.version}
+description: A captcha plugin by | @OldVnco / Vnco#1315
